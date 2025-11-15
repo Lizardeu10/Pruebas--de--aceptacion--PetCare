@@ -1,7 +1,7 @@
 Feature: Alerta de conexión o energía
   Como usuario
-  Quiero alerta de conexión o energía
-  Para cumplir el objetivo de la historia
+  Quiero recibir alertas cuando haya fallas de conexión o energía
+  Para revisar el sistema
 
   Scenario: Notificar fallo de energía o internet
     Given el dispositivo pierde energía o internet
