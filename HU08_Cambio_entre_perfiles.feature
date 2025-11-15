@@ -1,7 +1,7 @@
 Feature: Cambio entre perfiles
   Como usuario
-  Quiero cambio entre perfiles
-  Para cumplir el objetivo de la historia
+  Quiero cambiar fácilmente entre perfiles de mascotas
+  Para revisar su información individual
 
   Scenario: Cambio de perfil exitoso
     Given hay varias mascotas en la cuenta
