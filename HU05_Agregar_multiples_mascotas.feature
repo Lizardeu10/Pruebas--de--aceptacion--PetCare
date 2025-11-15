@@ -1,7 +1,7 @@
 Feature: Agregar múltiples mascotas
   Como usuario
   Quiero agregar múltiples mascotas
-  Para cumplir el objetivo de la historia
+  Para gestionarlas en un solo lugar
 
   Scenario: Agregar segunda mascota válida
     Given el usuario ya tiene una mascota
