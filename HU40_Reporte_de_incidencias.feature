@@ -1,7 +1,7 @@
 Feature: Reporte de incidencias
   Como usuario
-  Quiero reporte de incidencias
-  Para cumplir el objetivo de la historia
+  Quiero reportar problemas técnicos desde la app
+  Para recibir soporte rápido
 
   Scenario: Crear ticket con descripción válida
     Given ocurrió un fallo en el sistema
