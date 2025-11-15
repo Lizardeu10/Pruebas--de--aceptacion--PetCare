@@ -1,7 +1,7 @@
 Feature: Adjuntar evidencias al soporte
   Como usuario
   Quiero adjuntar evidencias al soporte
-  Para cumplir el objetivo de la historia
+  Para que el equipo pueda diagnosticar y resolver el problema más rápido
 
   Scenario: Adjuntar archivo permitido al ticket
     Given tengo un ticket de soporte abierto
