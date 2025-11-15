@@ -1,7 +1,7 @@
 Feature: Recomendaciones de productos
   Como usuario
-  Quiero recomendaciones de productos
-  Para cumplir el objetivo de la historia
+  Quiero recomendaciones de productos adecuados según la condición de salud de mi mascota
+  Para garantizar su bienestar y elegir opciones que se adapten a sus necesidades específicas
 
   Scenario: Listar productos compatibles con la condición registrada
     Given la mascota tiene una condición registrada (ej. sobrepeso)
