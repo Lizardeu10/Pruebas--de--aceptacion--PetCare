@@ -1,7 +1,7 @@
 Feature: Edición de datos de mascota
   Como usuario
-  Quiero edición de datos de mascota
-  Para cumplir el objetivo de la historia
+  Quiero editar de datos de mascota
+  Para mantener sus datos actualizados
 
   Scenario: Actualizar peso exitoso
     Given existe una mascota registrada
