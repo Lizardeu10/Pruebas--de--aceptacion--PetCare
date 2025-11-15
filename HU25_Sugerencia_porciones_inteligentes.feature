@@ -1,7 +1,7 @@
 Feature: Sugerencia de porciones inteligentes
   Como usuario
   Quiero sugerencia de porciones inteligentes
-  Para cumplir el objetivo de la historia
+  Para asegurar una alimentación adecuada y mantener su salud en óptimas condiciones
 
   Scenario: Sugerencia existosa con historial suficiente
     Given la mascota tiene peso y edad registrados
