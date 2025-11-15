@@ -1,6 +1,6 @@
 Feature: Funcionamiento offline
   Como usuario
-  Quiero funcionamiento offline de la aplicacion
+  Quiero funcionamiento offline de la aplicación
   Para no interrumpir la alimentación
 
   Scenario: Ejecución de ración sin internet
