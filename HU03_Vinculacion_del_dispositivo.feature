@@ -1,7 +1,7 @@
 Feature: Vinculación del dispositivo
   Como usuario
-  Quiero vinculación del dispositivo
-  Para cumplir el objetivo de la historia
+  Quiero emparejar mi dispositivo PetCare mediante Wi-Fi o QR
+  Para conectarlo correctamente
 
   Scenario: Vinculación por Wi‑Fi exitosa
     Given el dispositivo está encendido
