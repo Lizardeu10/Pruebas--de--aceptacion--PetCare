@@ -1,7 +1,7 @@
 Feature: Sincronización automática
   Como usuario
   Quiero sincronización automática
-  Para cumplir el objetivo de la historia
+  Para mantener la información actualizada sin tener que hacerlo manualmente
 
   Scenario: Sincronizar datos pendientes al reconectar
     Given hay datos locales pendientes de sincronización
