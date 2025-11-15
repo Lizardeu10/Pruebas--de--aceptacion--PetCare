@@ -1,7 +1,7 @@
 Feature: Reporte de consumo de agua
   Como usuario
   Quiero reporte de consumo de agua
-  Para cumplir el objetivo de la historia
+  Para entender los hábitos de hidratación
 
   Scenario: Ver gráfico semanal con datos
     Given existen datos de consumo
