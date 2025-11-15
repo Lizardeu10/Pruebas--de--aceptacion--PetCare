@@ -1,7 +1,7 @@
 Feature: Eliminación de mascota
   Como usuario
-  Quiero eliminación de mascota
-  Para cumplir el objetivo de la historia
+  Quiero tener la opción de eliminar o desactivar mascotas registradas en el sistema
+  Para mantener actualizada mi lista y evitar información innecesaria o duplicada
 
   Scenario: Desactivar mascota
     Given el usuario ve su lista de mascotas
