@@ -1,7 +1,7 @@
 Feature: Personalización de interfaz
   Como usuario
-  Quiero personalización de interfaz
-  Para cumplir el objetivo de la historia
+  Quiero personalizar la aplicación con fotos y nombres de mis mascotas
+  Para identificarlas fácilmente y tener una experiencia más cercana y agradable dentro de la app
 
   Scenario: Subir foto y editar nombre de mascota
     Given el usuario está en ajustes
