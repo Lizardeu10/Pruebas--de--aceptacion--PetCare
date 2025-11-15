@@ -1,7 +1,7 @@
 Feature: Cámara en vivo
   Como usuario
-  Quiero cámara en vivo
-  Para cumplir el objetivo de la historia
+  Quiero ver una cámara en vivo del comedero
+  Para confirmar que mi mascota está comiendo
 
   Scenario: Mostrar video en tiempo real
     Given el dispositivo tiene cámara y hay conexión estable
