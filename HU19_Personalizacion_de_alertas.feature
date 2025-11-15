@@ -1,7 +1,7 @@
 Feature: Personalización de alertas
   Como usuario
-  Quiero personalización de alertas
-  Para cumplir el objetivo de la historia
+  Quiero personalizar qué notificaciones deseo recibir
+  Para no saturarme
 
   Scenario: Desactivar alertas específicas
     Given el usuario abre 'Preferencias'
