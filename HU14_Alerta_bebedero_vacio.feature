@@ -1,7 +1,7 @@
 Feature: Alerta de bebedero vacío
   Como usuario
   Quiero alerta de bebedero vacío
-  Para cumplir el objetivo de la historia
+  Para actuar rápidamente
 
   Scenario: Enviar alerta por nivel bajo
     Given el nivel cae por debajo del umbral
