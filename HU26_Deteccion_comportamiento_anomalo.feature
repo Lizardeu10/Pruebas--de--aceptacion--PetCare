@@ -1,7 +1,7 @@
 Feature: Detección de comportamiento anómalo
   Como usuario
-  Quiero detección de comportamiento anómalo
-  Para cumplir el objetivo de la historia
+  Quiero recibir alertas cuando detecte comportamientos inusuales
+  Para actuar a tiempo
 
   Scenario: Enviar alerta por comportamiento anómalo
     Given la mascota suele comer 2 veces al día
