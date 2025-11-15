@@ -1,7 +1,7 @@
 Feature: Registro de mascota
   Como usuario
-  Quiero registro de mascota
-  Para cumplir el objetivo de la historia
+  Quiero agregar mi primera mascota al sistema
+  Para personalizar su alimentación
 
   Scenario: Agregar primera mascota con datos válidos
     Given el usuario tiene sesión iniciada
