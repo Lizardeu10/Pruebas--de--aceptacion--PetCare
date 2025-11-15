@@ -1,7 +1,7 @@
 Feature: Monitoreo del nivel de agua
   Como usuario
-  Quiero monitoreo del nivel de agua
-  Para cumplir el objetivo de la historia
+  Quiero ver el nivel de agua en tiempo real
+  Para asegurarme de que nunca falte
 
   Scenario: Mostrar nivel en tiempo real
     Given el bebedero está conectado
