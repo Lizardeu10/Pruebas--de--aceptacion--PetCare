@@ -1,7 +1,7 @@
 Feature: Comparación entre mascotas
   Como usuario
   Quiero comparación entre mascotas
-  Para cumplir el objetivo de la historia
+  Para detectar patrones
 
   Scenario: Comparar métricas entre dos mascotas
     Given hay más de 2 mascotas con datos
