@@ -1,7 +1,7 @@
 Feature: Configuración de porciones
   Como usuario
-  Quiero configuración de porciones
-  Para cumplir el objetivo de la historia
+  Quiero definir la cantidad de alimento por porción
+  Para controlar su dieta
 
   Scenario: Definir porción válida
     Given existe un horario programado
