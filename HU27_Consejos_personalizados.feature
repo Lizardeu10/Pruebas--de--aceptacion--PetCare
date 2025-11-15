@@ -1,7 +1,7 @@
 Feature: Consejos personalizados
   Como usuario
   Quiero consejos personalizados
-  Para cumplir el objetivo de la historia
+  Para mejorar su nutrición y optimizar sus hábitos alimenticios de manera informada
 
   Scenario: Mostrar consejos con patrones detectados
     Given existen reportes recientes y hay patrones relevantes
