@@ -1,7 +1,7 @@
 Feature: Resumen semanal
   Como usuario
-  Quiero resumen semanal
-  Para cumplir el objetivo de la historia
+  Quiero recibir un resumen automático semanal del bienestar de mis mascotas
+  Para mantenerme informado sobre su estado de salud y hábitos
 
   Scenario: Enviar resumen automático si está habilitado
     Given la semana concluye y el sistema genera el resumen
