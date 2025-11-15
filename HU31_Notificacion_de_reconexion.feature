@@ -1,7 +1,7 @@
 Feature: Notificación de reconexión
   Como usuario
-  Quiero notificación de reconexión
-  Para cumplir el objetivo de la historia
+  Quiero una notificación de reconexión
+  Para saber que el dispositivo volvió a funcionar correctamente y que la sincronización de datos se ha restablecido
 
   Scenario: Enviar notificación al recuperar conectividad
     Given el dispositivo estuvo offline
