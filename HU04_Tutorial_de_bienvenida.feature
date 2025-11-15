@@ -1,7 +1,7 @@
 Feature: Tutorial de bienvenida
   Como usuario
-  Quiero tutorial de bienvenida
-  Para cumplir el objetivo de la historia
+  Quiero recibir un tutorial guiado al iniciar la app
+  Para aprender a usar todas las funciones
 
   Scenario: Completar tutorial al primer ingreso
     Given el usuario ingresa por primera vez
