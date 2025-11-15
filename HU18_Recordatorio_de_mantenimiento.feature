@@ -1,7 +1,7 @@
 Feature: Recordatorio de mantenimiento
   Como usuario
   Quiero recordatorio de mantenimiento
-  Para cumplir el objetivo de la historia
+  Para evitar fallas
 
   Scenario: Enviar recordatorio en la fecha configurada
     Given el usuario configura recordatorios de limpieza o mantenimiento
