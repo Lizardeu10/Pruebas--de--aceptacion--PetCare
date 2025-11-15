@@ -1,7 +1,7 @@
 Feature: Registro de usuario
   Como usuario
-  Quiero registro de usuario
-  Para cumplir el objetivo de la historia
+  Quiero registrarme con mi correo o cuenta de Google
+  Para acceder rápidamente a la aplicación
 
   Scenario: Registro exitoso con correo válido
     Given el usuario abre la app por primera vez
