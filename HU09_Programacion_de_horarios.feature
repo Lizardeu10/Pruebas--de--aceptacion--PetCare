@@ -1,7 +1,7 @@
 Feature: Programación de horarios
   Como usuario
-  Quiero programación de horarios
-  Para cumplir el objetivo de la historia
+  Quiero programar horarios de comida diarios
+  Para garantizar que mi mascota coma a tiempo
 
   Scenario: Crear horario diario exitoso
     Given el usuario está en 'Rutinas'
