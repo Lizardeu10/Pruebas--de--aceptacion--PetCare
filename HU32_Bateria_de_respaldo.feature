@@ -1,7 +1,7 @@
 Feature: Batería de respaldo
   Como usuario
-  Quiero batería de respaldo
-  Para cumplir el objetivo de la historia
+  Quiero que el dispositivo tenga batería de respaldo
+  Para evitar interrupciones
 
   Scenario: Mantener rutinas con batería auxiliar
     Given hay corte de luz y la batería entra en uso
