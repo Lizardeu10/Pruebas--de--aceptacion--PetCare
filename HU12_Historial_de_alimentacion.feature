@@ -1,7 +1,7 @@
 Feature: Historial de alimentación
   Como usuario
-  Quiero historial de alimentación
-  Para cumplir el objetivo de la historia
+  Quiero un historial de alimentación
+  Para verificar la rutina
 
   Scenario: Ver historial de la última semana
     Given existen raciones pasadas
