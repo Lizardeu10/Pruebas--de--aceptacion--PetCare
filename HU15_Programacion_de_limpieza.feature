@@ -1,7 +1,7 @@
 Feature: Programación de limpieza
   Como usuario
-  Quiero programación de limpieza
-  Para cumplir el objetivo de la historia
+  Quiero programar limpiezas automáticas del bebedero
+  Para mantener la higiene
 
   Scenario: Ejecución de limpieza programada
     Given el usuario configura limpieza semanal
