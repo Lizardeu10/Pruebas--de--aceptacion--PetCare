@@ -1,7 +1,7 @@
 Feature: Comunicación por voz
   Como usuario
   Quiero comunicación por voz
-  Para cumplir el objetivo de la historia
+  Para tranquilizar a mi mascota
 
   Scenario: Transmitir audio a la mascota
     Given el micrófono está habilitado
