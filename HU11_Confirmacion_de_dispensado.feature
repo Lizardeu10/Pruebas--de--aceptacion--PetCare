@@ -1,7 +1,7 @@
 Feature: Confirmación de dispensado
   Como usuario
-  Quiero confirmación de dispensado
-  Para cumplir el objetivo de la historia
+  Quiero recibir una notificación cuando se dispense la comida
+  Para confirmar que todo funcionó
 
   Scenario: Notificación de dispensado confirmado
     Given hay una ración programada
