@@ -1,7 +1,7 @@
 Feature: Reportes gráficos
   Como usuario
-  Quiero reportes gráficos
-  Para cumplir el objetivo de la historia
+  Quiero ver reportes de alimentación e hidratación
+  Para analizar los hábitos de mi mascota
 
   Scenario: Mostrar reportes por periodo con datos
     Given existen datos en el sistema
