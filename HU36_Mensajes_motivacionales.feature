@@ -1,7 +1,7 @@
 Feature: Mensajes motivacionales
   Como usuario
   Quiero mensajes motivacionales
-  Para cumplir el objetivo de la historia
+  Para tener una experiencia más amena
 
   Scenario: Mostrar mensaje al cumplir meta diaria
     Given la función está activada y se cumple la meta diaria (raciones completas)
