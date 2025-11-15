@@ -1,7 +1,7 @@
 Feature: Permisos de usuario
   Como usuario
-  Quiero permisos de usuario
-  Para cumplir el objetivo de la historia
+  Quiero asignar permisos de control o sólo visualización
+  Para mantener la seguridad
 
   Scenario: Asignar permiso de solo lectura
     Given hay un usuario invitado en la cuenta
