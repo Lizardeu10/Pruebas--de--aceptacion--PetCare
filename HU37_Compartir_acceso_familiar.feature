@@ -1,7 +1,7 @@
 Feature: Compartir acceso familiar
   Como usuario
   Quiero compartir acceso familiar
-  Para cumplir el objetivo de la historia
+  Para que también puedan alimentar a la mascota
 
   Scenario: Invitar familiar y aceptar acceso
     Given el usuario es administrador de la cuenta
