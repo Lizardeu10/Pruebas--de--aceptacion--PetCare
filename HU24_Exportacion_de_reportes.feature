@@ -1,7 +1,7 @@
 Feature: Exportación de reportes
   Como usuario
-  Quiero exportación de reportes
-  Para cumplir el objetivo de la historia
+  Quiero exportar mis datos a PDF o Excel
+  Para compartirlos con mi veterinario
 
   Scenario: Exportar a PDF o Excel con datos
     Given existen datos en el periodo seleccionado
