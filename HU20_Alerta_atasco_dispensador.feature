@@ -1,7 +1,7 @@
 Feature: Alerta de atasco de dispensador
   Como usuario
-  Quiero alerta de atasco de dispensador
-  Para cumplir el objetivo de la historia
+  Quiero recibir alertas cuando el dispensador se atasque o falle
+  Para resolverlo rápido
 
   Scenario: Detectar y notificar atasco
     Given hay una ración programada
